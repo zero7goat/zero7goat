@@ -49,10 +49,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![ZNX](https://img.shields.io/badge/ZNX-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_ZNX_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zero7goat@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/la.suyog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog_bc)
+[![ZNX](https://img.shields.io/badge/ZNX-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://znx.pages.dev)
 
 </div>
 
